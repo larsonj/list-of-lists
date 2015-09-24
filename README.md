@@ -19,6 +19,12 @@ My List of Lists
 * [Adventures in JavaScript Development - Rebecca Murphy](http://rmurphey.com/)
 * [Your unofficial guide to dotfiles on GitHub. - dotfiles.github.io](http://dotfiles.github.io/)
 
-* <a href="http://dotfiles.github.io" target="_blank">New Tab Test!</a>
+* <a href="http://dotfiles.github.io" target="_blank">dotfiles.github.io</a>
 
+## APIs
+* [user-friendly-api - Gleb Bahmutov](http://glebbahmutov.com/blog/user-friendly-api/)
+
+## Microservices
+
+* [Micorservices architectural best practices - netflix](https://www.nginx.com/blog/microservices-at-netflix-architectural-best-practices/)
 
