@@ -5,7 +5,8 @@ My List of Lists
 
 * [Paul Irish - youtube on appdev workflow](https://www.youtube.com/watch?v=vDbbz-BdyYc)
 * [Paul Irish - youtube on javascript workflow](https://www.youtube.com/watch?v=f7AU2Ozu8eo)
-
+* [Adventures in JavaScript Development - Rebecca Murphy](http://rmurphey.com/)
+* []()
 
 ##  Editors
 ### Sublime
