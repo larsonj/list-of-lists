@@ -27,4 +27,5 @@ My List of Lists
 ## Microservices
 
 * [Micorservices architectural best practices - netflix](https://www.nginx.com/blog/microservices-at-netflix-architectural-best-practices/)
+* [Consumer driver contracts - Martin Fowler](http://martinfowler.com/articles/consumerDrivenContracts.html)
 
