@@ -19,4 +19,6 @@ My List of Lists
 * [Adventures in JavaScript Development - Rebecca Murphy](http://rmurphey.com/)
 * [Your unofficial guide to dotfiles on GitHub. - dotfiles.github.io](http://dotfiles.github.io/)
 
+* <a href="http://dotfiles.github.io" target="_blank">New Tab Test!</a>
+
 
