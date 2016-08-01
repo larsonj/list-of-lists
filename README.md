@@ -11,7 +11,7 @@ My List of Lists
 ## APIs
 * [user-friendly-api - Gleb Bahmutov](http://glebbahmutov.com/blog/user-friendly-api/)
 
-## Workflow
+## Developer Workflows
 * [Paul Irish - youtube on appdev workflow](https://www.youtube.com/watch?v=vDbbz-BdyYc)
 * [Paul Irish - youtube on javascript workflow](https://www.youtube.com/watch?v=f7AU2Ozu8eo)
 * [Adventures in JavaScript Development - Rebecca Murphy](http://rmurphey.com/)
