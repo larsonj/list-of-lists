@@ -2,12 +2,18 @@
 My List of Lists
 
 ## Application Development 
+* [The introduction to Reactive Programming you've been missing]https://gist.github.com/staltz/868e7e9bc2a7b8c1f754
+### Angular 2
+
+### Ionic 2
+
+### Javascript
 
 ## Database
 ### MongoDB
-
 * [Storing Tree Structues w/ MongoDB (slideshare)](http://www.slideshare.net/voronenko/storing-tree-structures-with-mongodb)
 
+### mySQL & related
 ## APIs
 * [user-friendly-api - Gleb Bahmutov](http://glebbahmutov.com/blog/user-friendly-api/)
 
@@ -19,7 +25,6 @@ My List of Lists
 
 ###  Editors
 #### Sublime
-
 * [Sublime Linter User Settings](http://bl.ocks.org/bretdavidson/3189814)
 
 
