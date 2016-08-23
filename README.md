@@ -29,8 +29,10 @@ My List of Lists
 * [Sublime Linter User Settings](http://bl.ocks.org/bretdavidson/3189814)
 
 
-## Microservices
+##Architecture
 
+### Microservices
 * [Micorservices architectural best practices - netflix](https://www.nginx.com/blog/microservices-at-netflix-architectural-best-practices/)
 * [Consumer driver contracts - Martin Fowler](http://martinfowler.com/articles/consumerDrivenContracts.html)
+* [How to CQRS in Node: Eventually Consistent, Unidirectional Systems with Microservices](http://nycnode.com/videos/matt-walters-how-to-cqrs-in-node-eventually-consistent-unidirectional-systems-with-microservices)
 
