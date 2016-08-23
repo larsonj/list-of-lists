@@ -2,7 +2,6 @@
 My List of Lists
 
 ## Application Development 
-* [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 
 ### Angular 2
 
@@ -35,7 +34,10 @@ My List of Lists
 * [Micorservices architectural best practices - netflix](https://www.nginx.com/blog/microservices-at-netflix-architectural-best-practices/)
 * [Consumer driver contracts - Martin Fowler](http://martinfowler.com/articles/consumerDrivenContracts.html)
 * [How to CQRS in Node: Eventually Consistent, Unidirectional Systems with Microservices](http://nycnode.com/videos/matt-walters-how-to-cqrs-in-node-eventually-consistent-unidirectional-systems-with-microservices)
- 
+
+### Reactive Programming
+* [The introduction to Reactive Programming you've been missing - @andrestaltz](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+
 ### REST (REpresentational State Transfer)
 * [Richardson Maturity Model](http://martinfowler.com/articles/richardsonMaturityModel.html)
 
