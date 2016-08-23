@@ -10,14 +10,6 @@ My List of Lists
 
 ### Javascript
 
-## Database
-### MongoDB
-* [Storing Tree Structues w/ MongoDB (slideshare)](http://www.slideshare.net/voronenko/storing-tree-structures-with-mongodb)
-
-### mySQL & related
-## APIs
-* [user-friendly-api - Gleb Bahmutov](http://glebbahmutov.com/blog/user-friendly-api/)
-
 ## Developer Workflows
 * [Paul Irish - youtube on appdev workflow](https://www.youtube.com/watch?v=vDbbz-BdyYc)
 * [Paul Irish - youtube on javascript workflow](https://www.youtube.com/watch?v=f7AU2Ozu8eo)
@@ -28,8 +20,16 @@ My List of Lists
 #### Sublime
 * [Sublime Linter User Settings](http://bl.ocks.org/bretdavidson/3189814)
 
-
 ##Architecture
+
+### APIs
+* [user-friendly-api - Gleb Bahmutov](http://glebbahmutov.com/blog/user-friendly-api/)
+
+### Database
+#### MongoDB
+* [Storing Tree Structues w/ MongoDB (slideshare)](http://www.slideshare.net/voronenko/storing-tree-structures-with-mongodb)
+
+#### mySQL & related
 
 ### Microservices
 * [Micorservices architectural best practices - netflix](https://www.nginx.com/blog/microservices-at-netflix-architectural-best-practices/)
