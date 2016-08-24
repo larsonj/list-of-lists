@@ -6,6 +6,7 @@ My List of Lists
 ### Angular 2
 
 ### Ionic 2
+* [Setup Ionic 2 + TypeScript Debugging with IntelliJ/WebStorm/Jetbrains IDE](http://blog.thecodecampus.de/setup-ionic-2-typescript-debugging-intellijwebstormjetbrains-ide/)
 
 ### Javascript
 
