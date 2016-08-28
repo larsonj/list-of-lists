@@ -43,6 +43,6 @@ My List of Lists
 * [Richardson Maturity Model](http://martinfowler.com/articles/richardsonMaturityModel.html)
 
 ### Security
-* [National Vulnerability Database](https://nvd.nist.gov/home.cfm)
-<a href="https://nvd.nist.gov/home.cfm" target="_blank">National Vulnerability Database</a>
+* [National Vulnerability Database](https://nvd.nist.gov/home.cfm target="_blank")
+* <a href="https://nvd.nist.gov/home.cfm" target="_blank">National Vulnerability Database</a>
 
