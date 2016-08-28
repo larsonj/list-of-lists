@@ -20,7 +20,7 @@ My List of Lists
 - [Developer Workflows](#developer-workflows)
 - [Editors](#editors)
     - [Sublime](#sublime)
-    - [[gravzio uml markdown](gravzio.com)](#gravzio-uml-markdowngravziocom)
+    - [UML markdown](#uml-markdown)
  
 
 
@@ -68,7 +68,8 @@ My List of Lists
 ### Sublime
 * [Sublime Linter User Settings](http://bl.ocks.org/bretdavidson/3189814)
 
-### [gravzio uml markdown](gravzio.com)
+### UML markdown 
+* [gravzio uml markdown](gravzio.com)
 
 #### diagraph example 
 
