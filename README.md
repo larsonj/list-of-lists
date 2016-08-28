@@ -92,6 +92,7 @@ My List of Lists
 
 #### gravzio sequence diagram example 
 
+
 <img src='http://g.gravizo.com/g?
 @startuml;
 
@@ -118,8 +119,7 @@ deactivate B;
 A --> User: Done;
 deactivate A;
 
-@enduml;
-            
+@enduml
 '>
 
 
