@@ -71,7 +71,7 @@ My List of Lists
 ### UML markdown 
 * [gravzio uml markdown](gravzio.com)
 
-#### diagraph example 
+#### directed graph example 
 
 ##### ![Alt text](http://g.gravizo.com/g?
   digraph G {
