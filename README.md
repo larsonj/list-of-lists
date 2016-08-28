@@ -71,9 +71,9 @@ My List of Lists
 ### UML markdown 
 * [gravzio uml markdown](gravzio.com)
 
-#### diagraph example 
+#### directed graph example 
 
-##### ![Alt text](http://g.gravizo.com/g?
+![Alt text](http://g.gravizo.com/g?
   digraph G {
     aize ="4,4";
     main [shape=box];
@@ -93,7 +93,7 @@ My List of Lists
 
 #### sequence diagram example
 
-##### ![Alt text](http://g.gravizo.com/g?
+![Alt text](http://g.gravizo.com/g?
 @startuml;
 actor User;
 participant "First Class" as A;
