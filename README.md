@@ -119,7 +119,8 @@ A --> User: Done;
 deactivate A;
 
 @enduml
-'>)
+'>
+)
 
 
 
