@@ -44,5 +44,5 @@ My List of Lists
 
 ### Security
 * [National Vulnerability Database](https://nvd.nist.gov/home.cfm)
-* <a href="https://nvd.nist.gov/home.cfm" target = "_blank">National Vulnerability Database</a>
+* <a href="https://nvd.nist.gov/home.cfm" target="_blank">National Vulnerability Database</a>
 
