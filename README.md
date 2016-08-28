@@ -42,3 +42,5 @@ My List of Lists
 ### REST (REpresentational State Transfer)
 * [Richardson Maturity Model](http://martinfowler.com/articles/richardsonMaturityModel.html)
 
+### Security
+* [national Vulnerability Database](https://nvd.nist.gov/home.cfm)
