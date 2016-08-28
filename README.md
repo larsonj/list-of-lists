@@ -70,9 +70,9 @@ My List of Lists
 
 ### [gravzio uml markdown](gravzio.com)
 
-#### 
+#### diagraph example 
 
-![gravzio diagraph example](http://g.gravizo.com/g?
+![Alt text](http://g.gravizo.com/g?
   digraph G {
     aize ="4,4";
     main [shape=box];
@@ -89,6 +89,8 @@ My List of Lists
     execute -> compare;
   }
 )
+
+#### sequence diagram example
 
 ![Alt text](http://g.gravizo.com/g?
 @startuml;
