@@ -70,9 +70,9 @@ My List of Lists
 
 ### [gravzio uml markdown](gravzio.com)
 
-#### gravzio diagraph example
+#### 
 
-![Alt text](http://g.gravizo.com/g?
+![gravzio diagraph example](http://g.gravizo.com/g?
   digraph G {
     aize ="4,4";
     main [shape=box];
@@ -92,8 +92,7 @@ My List of Lists
 
 #### gravzio sequence diagram example 
 
-
-<img src='http://g.gravizo.com/g?
+![gravzio sequence diagram example](<img src='http://g.gravizo.com/g?
 @startuml;
 
 actor User;
@@ -120,7 +119,7 @@ A --> User: Done;
 deactivate A;
 
 @enduml
-'>
+'>)
 
 
 
