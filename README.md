@@ -4,6 +4,7 @@
 [TOC levels=1-3]:# "#### Contents"
 
 #### Contents
+- [Data Visualization](#data-visualization)
 - [Dev](#dev)
     - [Languages & Frameworks](#languages--frameworks)
         - [HTML & CSS](#html--css)
@@ -26,6 +27,8 @@
     - [Docker](#docker)
 - [Philosophy](#philosophy)
 
+# Data Visualization
+* [Flame Graphs](http://www.brendangregg.com/flamegraphs.html) 
 # Dev
 ## Languages & Frameworks
 ### HTML & CSS
