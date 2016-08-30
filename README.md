@@ -6,59 +6,65 @@ My List of Lists
 
 # Table of Contents
 - [list-of-lists](#list-of-lists)
-- [Application Development](#application-development)
+- [JS Engine](#js-engine)
+- [JS Frameworks](#js-frameworks)
     - [Angular 2](#angular-2)
     - [Ionic 2](#ionic-2)
-    - [Javascript](#javascript)
-- [Architecture](#architecture)
-    - [APIs](#apis)
-    - [Database](#database)
-    - [Microservices](#microservices)
-    - [Reactive Programming](#reactive-programming)
-    - [REST (REpresentational State Transfer)](#rest-representational-state-transfer)
-    - [Security](#security)
-- [Developer Workflows](#developer-workflows)
+- [Javascript Style Guides](#javascript-style-guides)
+- [NodeJS](#nodejs)
+- [APIs](#apis)
+- [Database](#database)
+    - [MongoDB](#mongodb)
+    - [mySQL & related](#mysql--related)
+- [Microservices](#microservices)
+- [Reactive Programming](#reactive-programming)
+- [REST (REpresentational State Transfer)](#rest-representational-state-transfer)
+- [Security](#security)
 - [Editors](#editors)
     - [Sublime](#sublime)
     - [UML markdown](#uml-markdown)
- 
+        - [gravzio - directed graph example](#gravzio---directed-graph-example)
+        - [sequence diagram example](#sequence-diagram-example)
 
 
-## Application Development 
-
+# Languages & Frameworks
+## JS Engine
+* [Demystifying js engines - a list of resources](https://github.com/a0viedo/demystifying-js-engines?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly) 
+## JS Frameworks
 ### Angular 2
-
 ### Ionic 2
 * [Setup Ionic 2 + TypeScript Debugging with IntelliJ/WebStorm/Jetbrains IDE](http://blog.thecodecampus.de/setup-ionic-2-typescript-debugging-intellijwebstormjetbrains-ide/)
+## Javascript Style Guides
+* [Google javascript styleguide](https://google.github.io/styleguide/javascriptguide.xml)
+* [Airbnb javascript styleguide](https://github.com/airbnb/javascript) 
+## NodeJS
+[Node.js Playbook](https://github.com/HiFaraz/node-playbook?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly#workflow) 
 
-### Javascript
-
-##Architecture
-
-### APIs
+# Architecture
+## APIs
 * [user-friendly-api - Gleb Bahmutov](http://glebbahmutov.com/blog/user-friendly-api/)
 
-### Database
-#### MongoDB
+## Database
+### MongoDB
 * [Storing Tree Structues w/ MongoDB (slideshare)](http://www.slideshare.net/voronenko/storing-tree-structures-with-mongodb)
 
-#### mySQL & related
+### mySQL & related
 
-### Microservices
+## Microservices
 * [Micorservices architectural best practices - netflix](https://www.nginx.com/blog/microservices-at-netflix-architectural-best-practices/)
 * [Consumer driver contracts - Martin Fowler](http://martinfowler.com/articles/consumerDrivenContracts.html)
 * [How to CQRS in Node: Eventually Consistent, Unidirectional Systems with Microservices](http://nycnode.com/videos/matt-walters-how-to-cqrs-in-node-eventually-consistent-unidirectional-systems-with-microservices)
 
-### Reactive Programming
+## Reactive Programming
 * [The introduction to Reactive Programming you've been missing - @andrestaltz](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 
-### REST (REpresentational State Transfer)
+## REST (REpresentational State Transfer)
 * [Richardson Maturity Model](http://martinfowler.com/articles/richardsonMaturityModel.html)
 
-### Security
+## Security
 * [National Vulnerability Database](https://nvd.nist.gov/home.cfm)
 
-## Developer Workflows
+# Developer tools & workflows
 * [Paul Irish - youtube on appdev workflow](https://www.youtube.com/watch?v=vDbbz-BdyYc)
 * [Paul Irish - youtube on javascript workflow](https://www.youtube.com/watch?v=f7AU2Ozu8eo)
 * [Adventures in JavaScript Development - Rebecca Murphy](http://rmurphey.com/)
@@ -69,10 +75,10 @@ My List of Lists
 * [Sublime Linter User Settings](http://bl.ocks.org/bretdavidson/3189814)
 
 ### UML markdown 
-* [gravzio uml markdown](gravzio.com)
+* [Graphviz is open source graph visualization software](http://www.graphviz.org/)
+* [gravzio uml markdown](http://gravizo.com)
 
-#### directed graph example 
-
+#### gravzio - directed graph example 
 ![Alt text](http://g.gravizo.com/g?
   digraph G {
     aize ="4,4";
@@ -113,11 +119,3 @@ A --> User: Done;
 deactivate A;
 @enduml
 )
-
-
-
-
-
-
-
-
