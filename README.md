@@ -29,8 +29,11 @@
 
 # Data Visualization
 * [Flame Graphs](http://www.brendangregg.com/flamegraphs.html) 
+
 # Dev
+
 ## Languages & Frameworks
+
 ### HTML & CSS
 * [multiple.js -An experiment in sharing background across multiple elements using CSS](http://multiple.js.org/) 
  
