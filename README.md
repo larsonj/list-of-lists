@@ -141,4 +141,5 @@ deactivate A;
 
 # Philosophy
 * [Nick Bostrom on the Simulation Argument](http://philosophybites.com/2011/08/nick-bostrom-on-the-simulation-argument.html) 
+
 <a href="#toc">back to Table of Contents</a> 
