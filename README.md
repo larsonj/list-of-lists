@@ -1,37 +1,43 @@
 list-of-lists
----
-My List of Lists
+=============
 
-[TOC]:#
+[TOC levels=2-3 html]:# "#### Contents"
 
-# Table of Contents
-- [list-of-lists](#list-of-lists)
-- [JS Engine](#js-engine)
-- [JS Frameworks](#js-frameworks)
-    - [Angular 2](#angular-2)
-    - [Ionic 2](#ionic-2)
-- [Javascript Style Guides](#javascript-style-guides)
-- [NodeJS](#nodejs)
-- [APIs](#apis)
-- [Database](#database)
-    - [MongoDB](#mongodb)
-    - [mySQL & related](#mysql--related)
-- [Microservices](#microservices)
-- [Reactive Programming](#reactive-programming)
-- [REST (REpresentational State Transfer)](#rest-representational-state-transfer)
-- [Security](#security)
-- [Editors](#editors)
-    - [Sublime](#sublime)
-    - [UML markdown](#uml-markdown)
-        - [gravzio - directed graph example](#gravzio---directed-graph-example)
-        - [sequence diagram example](#sequence-diagram-example)
-
+<div><h4>Contents</h4>
+  <ul>
+    <li><a href="#js-engine">JS Engine</a></li>
+    <li><a href="#js-frameworks">JS Frameworks</a>
+    <ul>
+      <li><a href="#angular-2">Angular 2</a></li>
+      <li><a href="#ionic-2">Ionic 2</a>
+    </ul></li>
+    <li><a href="#javascript-style-guides">Javascript Style Guides</a></li>
+    <li><a href="#nodejs">NodeJS</a></li>
+    <li><a href="#apis">APIs</a></li>
+    <li><a href="#database">Database</a>
+    <ul>
+      <li><a href="#mongodb">MongoDB</a></li>
+      <li><a href="#mysql--related">mySQL &amp; related</a>
+    </ul></li>
+    <li><a href="#microservices">Microservices</a></li>
+    <li><a href="#reactive-programming">Reactive Programming</a></li>
+    <li><a href="#rest-representational-state-transfer">REST (REpresentational State Transfer)</a></li>
+    <li><a href="#security">Security</a></li>
+    <li><a href="#editors">Editors</a>
+    <ul>
+      <li><a href="#sublime">Sublime</a></li>
+      <li><a href="#uml-markdown">UML markdown</a></li>
+      <li><a href="#markdown">Markdown</a></li>
+    </ul></li>
+  </ul>
+</div>
 
 # Languages & Frameworks
 ## JS Engine
 * [Demystifying js engines - a list of resources](https://github.com/a0viedo/demystifying-js-engines?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly) 
 ## JS Frameworks
 ### Angular 2
+#### Angular 3 
 ### Ionic 2
 * [Setup Ionic 2 + TypeScript Debugging with IntelliJ/WebStorm/Jetbrains IDE](http://blog.thecodecampus.de/setup-ionic-2-typescript-debugging-intellijwebstormjetbrains-ide/)
 ## Javascript Style Guides
@@ -77,6 +83,8 @@ My List of Lists
 ### UML markdown 
 * [Graphviz is open source graph visualization software](http://www.graphviz.org/)
 * [gravzio uml markdown](http://gravizo.com)
+### Markdown
+[webstorm idea-markdown wiki](https://github.com/vsch/idea-multimarkdown/wiki/Adding-a-Table-of-Contents) 
 
 #### gravzio - directed graph example 
 ![Alt text](http://g.gravizo.com/g?
