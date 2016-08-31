@@ -41,19 +41,25 @@
 * [Demystifying js engines - a list of resources](https://github.com/a0viedo/demystifying-js-engines?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly) 
 
 ### JS Frameworks
+
 #### Angular 2
+
 #### Ionic 2
 * [Setup Ionic 2 + TypeScript Debugging with IntelliJ/WebStorm/Jetbrains IDE](http://blog.thecodecampus.de/setup-ionic-2-typescript-debugging-intellijwebstormjetbrains-ide/)
 * [Ionic 2 resources](https://github.com/candelibas/awesome-ionic2) 
+
 #### Ionic Framework
-* [A collection of Ionic Framework Resources](http://emersonthompson.com.br/ionic-collection/) 
+* [A collection of Ionic Framework Resources](http://emersonthompson.com.br/ionic-collection/)
+
 ### Javascript Style Guides
 * [Google javascript styleguide](https://google.github.io/styleguide/javascriptguide.xml)
-* [Airbnb javascript styleguide](https://github.com/airbnb/javascript) 
+* [Airbnb javascript styleguide](https://github.com/airbnb/javascript)
+
 ### NodeJS
 [Node.js Playbook](https://github.com/HiFaraz/node-playbook?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly#workflow) 
 
 ## Architecture
+
 ### APIs
 * [user-friendly-api - Gleb Bahmutov](http://glebbahmutov.com/blog/user-friendly-api/)
 
