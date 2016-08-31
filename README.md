@@ -14,11 +14,11 @@ a most excellent list of lists
     - [R Language](#r-language)
 - [Dev](#dev)
     - [Languages & Frameworks](#languages--frameworks)
+        - [Hybrid Mobile](#hybrid-mobile)
+        - [Ionic 2](#ionic-2)
+        - [Wix](#wix)
         - [HTML & CSS](#html--css)
-        - [JS Engines](#js-engines)
-        - [JS Frameworks](#js-frameworks)
-        - [Javascript Style Guides](#javascript-style-guides)
-        - [NodeJS](#nodejs)
+        - [Javascript & Frameworks](#javascript--frameworks)
     - [Architecture & Related](#architecture--related)
         - [APIs](#apis)
         - [Backend Server Platforms](#backend-server-platforms)
@@ -37,8 +37,11 @@ a most excellent list of lists
     - [RF & Related](#rf--related)
         - [Digi XBee](#digi-xbee)
     - [Raspbury PI](#raspbury-pi)
-- [Philosophy](#philosophy)
 - [Neuroscience & Psychology](#neuroscience--psychology)
+- [Science](#science)
+    - [Astronomy & Cosmology](#astronomy--cosmology)
+    - [Philosophy](#philosophy)
+    - [Physics](#physics)
 
 
 # Data Visualization
@@ -53,6 +56,24 @@ a most excellent list of lists
 
 ## Languages & Frameworks
 
+### Hybrid Mobile
+### Ionic 2
+* [Setup Ionic 2 + TypeScript Debugging with IntelliJ/WebStorm/Jetbrains IDE](http://blog.thecodecampus.de/setup-ionic-2-typescript-debugging-intellijwebstormjetbrains-ide/)
+* [Ionic 2 resources](https://github.com/candelibas/awesome-ionic2)
+* [Ionic 2 reference application](https://github.com/driftyco/ionic-conference-app)
+#### Ionic 2 PWAs & Service Workers
+* [Service worker pre-cache](https://github.com/GoogleChrome/sw-precache)
+* [Navigating the World of Progressive Web Apps with Ionic 2](http://blog.ionic.io/navigating-the-world-of-progressive-web-apps-with-ionic-2/)
+
+##### Sample PWA w/ SW Apps
+* [Let Me See - an Ionic 2 Progressive Web App w/ Service Worker (Article)](http://blog.ionic.io/built-with-ionic-2-let-me-see/)
+* [Let Me See - Github Repo](https://github.com/manekinekko/angularattack2016)
+
+### Wix
+
+#### Ionic Framework
+* [A collection of Ionic Framework Resources](http://emersonthompson.com.br/ionic-collection/)
+
 ### HTML & CSS
 * [multiple.js -An experiment in sharing background across multiple elements using CSS](http://multiple.js.org/)
 * [Learn flexbox CSS with Flexbox Froggy!](http://flexboxfroggy.com/)
@@ -61,32 +82,18 @@ a most excellent list of lists
 * [Device-pixel density tests for webkit ](https://bjango.com/articles/min-device-pixel-ratio/)
 * [A CSS media query that captures almost all high DPI aware devices](https://gist.github.com/marcedwards/3446599)
 
-### JS Engines
-* [Demystifying js engines - a list of resources](https://github.com/a0viedo/demystifying-js-engines?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly)
-
-### JS Frameworks
+### Javascript & Frameworks
 
 #### Angular 2
 
-#### Ionic 2
-* [Setup Ionic 2 + TypeScript Debugging with IntelliJ/WebStorm/Jetbrains IDE](http://blog.thecodecampus.de/setup-ionic-2-typescript-debugging-intellijwebstormjetbrains-ide/)
-* [Ionic 2 resources](https://github.com/candelibas/awesome-ionic2)
-* [Ionic 2 reference application](https://github.com/driftyco/ionic-conference-app)
-##### Ionic 2 Progressive Web Apps & Service Workers
-* [Service worker pre-cache](https://github.com/GoogleChrome/sw-precache)
-* [Navigating the World of Progressive Web Apps with Ionic 2](http://blog.ionic.io/navigating-the-world-of-progressive-web-apps-with-ionic-2/)
-Sample Apps
-* [Let Me See - an Ionic 2 Progressive Web App w/ Service Worker (Article)](http://blog.ionic.io/built-with-ionic-2-let-me-see/)
-* [Let Me See - Github Repo](https://github.com/manekinekko/angularattack2016)
+#### JS Engines
+* [Demystifying js engines - a list of resources](https://github.com/a0viedo/demystifying-js-engines?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly)
 
-#### Ionic Framework
-* [A collection of Ionic Framework Resources](http://emersonthompson.com.br/ionic-collection/)
-
-### Javascript Style Guides
+#### Javascript Style Guides
 * [Google javascript styleguide](https://google.github.io/styleguide/javascriptguide.xml)
 * [Airbnb javascript styleguide](https://github.com/airbnb/javascript)
 
-### NodeJS
+#### NodeJS
 [Node.js Playbook](https://github.com/HiFaraz/node-playbook?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly#workflow)
 
 ## Architecture & Related
@@ -208,12 +215,17 @@ deactivate A;
 * [common XBee mistakes - fauldi](https://www.faludi.com/projects/common-xbee-mistakes/)
 ## Raspbury PI
 
+# Neuroscience & Psychology
 
-# Philosophy
+# Science
+
+## Astronomy & Cosmology
+
+## Philosophy
 * [Nick Bostrom on the Simulation Argument](http://philosophybites.com/2011/08/nick-bostrom-on-the-simulation-argument.html)
 * [http://www.nickbostrom.com/](http://www.nickbostrom.com/)
 * [Philosophy of Mind blog](http://philosophyofbrains.com/)
 
-# Neuroscience & Psychology
-
+## Physics
+* [Symmetry Magazine - Particle Physics News](http://www.symmetrymagazine.org/archive?topic=3379)
 
