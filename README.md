@@ -23,6 +23,7 @@ a most excellent list of lists
         - [Backend Server Platforms](#backend-server-platforms)
         - [Database](#database)
         - [Microservices](#microservices)
+        - [Offline Progressive Web Apps](#offline-progressive-web-apps)
         - [Reactive Programming](#reactive-programming)
         - [REST (REpresentational State Transfer)](#rest-representational-state-transfer)
     - [Security](#security)
@@ -66,7 +67,13 @@ a most excellent list of lists
 #### Ionic 2
 * [Setup Ionic 2 + TypeScript Debugging with IntelliJ/WebStorm/Jetbrains IDE](http://blog.thecodecampus.de/setup-ionic-2-typescript-debugging-intellijwebstormjetbrains-ide/)
 * [Ionic 2 resources](https://github.com/candelibas/awesome-ionic2)
-* [Ionic 2 reference application](https://github.com/driftyco/ionic-conference-app) 
+* [Ionic 2 reference application](https://github.com/driftyco/ionic-conference-app)
+##### Ionic 2 Progressive Web Apps & Service Workers
+* [Service worker pre-cache](https://github.com/GoogleChrome/sw-precache) 
+* [Navigating the World of Progressive Web Apps with Ionic 2](http://blog.ionic.io/navigating-the-world-of-progressive-web-apps-with-ionic-2/)  
+Sample Apps
+* [Let Me See - an Ionic 2 Progressive Web App w/ Service Worker (Article)](http://blog.ionic.io/built-with-ionic-2-let-me-see/)
+* [Let Me See - Github Repo](https://github.com/manekinekko/angularattack2016)
 
 #### Ionic Framework
 * [A collection of Ionic Framework Resources](http://emersonthompson.com.br/ionic-collection/)
@@ -99,6 +106,10 @@ a most excellent list of lists
 * [Consumer driver contracts - Martin Fowler](http://martinfowler.com/articles/consumerDrivenContracts.html)
 * [How to CQRS in Node: Eventually Consistent, Unidirectional Systems with Microservices](http://nycnode.com/videos/matt-walters-how-to-cqrs-in-node-eventually-consistent-unidirectional-systems-with-microservices)
 
+
+### Offline Progressive Web Apps
+* [Service Workers - Building offline-first Progressive Web Apps - Google I/O 2016 (Video)](https://www.youtube.com/watch?v=cmGr0RszHc8&feature=youtu.be) 
+
 ### Reactive Programming
 * [The introduction to Reactive Programming you've been missing - @andrestaltz](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 
@@ -114,15 +125,21 @@ a most excellent list of lists
 * [Adventures in JavaScript Development - Rebecca Murphy](http://rmurphey.com/)
 * <a href="http://dotfiles.github.io" target="_blank">Your unofficial guide to dotfiles on GitHub. - dotfiles.github.io</a>
 ###  Editors and IDEs
+
 #### Sublime
 * [Sublime Linter User Settings](http://bl.ocks.org/bretdavidson/3189814)
+
 #### UML markdown 
 * [Graphviz is open source graph visualization software](http://www.graphviz.org/)
 * [gravzio uml markdown](http://gravizo.com)
+
 #### Markdown
-[webstorm idea-markdown wiki](https://github.com/vsch/idea-multimarkdown/wiki/Adding-a-Table-of-Contents) 
+* [webstorm idea-markdown wiki](https://github.com/vsch/idea-multimarkdown/wiki/Adding-a-Table-of-Contents)
+* [Github Markdown Guide](https://guides.github.com/features/mastering-markdown/)  
+ 
 #### Webstorm
 [Jet Brains Webstorm Javascript IDE](https://www.jetbrains.com/webstorm/) 
+
 ##### gravzio - directed graph example 
 ![Alt text](http://g.gravizo.com/g?
   digraph G {
