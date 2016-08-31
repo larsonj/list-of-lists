@@ -6,7 +6,6 @@ a most excellent list of lists
 
 <a href="#toc"></a>
 [TOC levels=1-3]:# "#### Contents"
-
 #### Contents
 - [Data Visualization](#data-visualization)
     - [Interesting data sets](#interesting-data-sets)
@@ -189,8 +188,9 @@ deactivate A;
 
 # DevOps
 ## Docker
-* [Docker Storage Introduction](https://deis.com/blog/2016/docker-storage-introduction/?mkt_tok=eyJpIjoiTXpNNU1tUXhZVGRrTXpnNSIsInQiOiJreDk2b0h3TDJmcjBEcjVsOXZVMUl4dXd2RGFcL0pKWUFnWkcwUFZDbEFYYU56QWhnaTlsUXpDMDVEQ1R2TCt4R2N3Z0tnaFFUMERlQWVXNGo2elQwWUpRVnVTS1NcLzkrS1A0Q3FvTGZNeVNVPSJ9)
-* [Auto Scaling with Docker](https://botleg.com/stories/auto-scaling-with-docker/?mkt_tok=eyJpIjoiTXpNNU1tUXhZVGRrTXpnNSIsInQiOiJreDk2b0h3TDJmcjBEcjVsOXZVMUl4dXd2RGFcL0pKWUFnWkcwUFZDbEFYYU56QWhnaTlsUXpDMDVEQ1R2TCt4R2N3Z0tnaFFUMERlQWVXNGo2elQwWUpRVnVTS1NcLzkrS1A0Q3FvTGZNeVNVPSJ9) 
+* [Docker storage introduction](https://deis.com/blog/2016/docker-storage-introduction/?mkt_tok=eyJpIjoiTXpNNU1tUXhZVGRrTXpnNSIsInQiOiJreDk2b0h3TDJmcjBEcjVsOXZVMUl4dXd2RGFcL0pKWUFnWkcwUFZDbEFYYU56QWhnaTlsUXpDMDVEQ1R2TCt4R2N3Z0tnaFFUMERlQWVXNGo2elQwWUpRVnVTS1NcLzkrS1A0Q3FvTGZNeVNVPSJ9)
+* [Auto scaling with docker](https://botleg.com/stories/auto-scaling-with-docker/?mkt_tok=eyJpIjoiTXpNNU1tUXhZVGRrTXpnNSIsInQiOiJreDk2b0h3TDJmcjBEcjVsOXZVMUl4dXd2RGFcL0pKWUFnWkcwUFZDbEFYYU56QWhnaTlsUXpDMDVEQ1R2TCt4R2N3Z0tnaFFUMERlQWVXNGo2elQwWUpRVnVTS1NcLzkrS1A0Q3FvTGZNeVNVPSJ9)
+* [Service discovery & load-balancing 
 
 # Embedded Programming
 
