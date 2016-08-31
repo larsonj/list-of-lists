@@ -44,6 +44,8 @@
 #### Angular 2
 #### Ionic 2
 * [Setup Ionic 2 + TypeScript Debugging with IntelliJ/WebStorm/Jetbrains IDE](http://blog.thecodecampus.de/setup-ionic-2-typescript-debugging-intellijwebstormjetbrains-ide/)
+#### Ionic Framework
+* [A collection of Ionic Framework Resources](http://emersonthompson.com.br/ionic-collection/) 
 ### Javascript Style Guides
 * [Google javascript styleguide](https://google.github.io/styleguide/javascriptguide.xml)
 * [Airbnb javascript styleguide](https://github.com/airbnb/javascript) 
