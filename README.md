@@ -16,6 +16,10 @@ a most excellent list of lists
     - [Languages & Frameworks](#languages--frameworks)
         - [Hybrid Mobile](#hybrid-mobile)
         - [Ionic 2](#ionic-2)
+        - [Ionic 2 PWAs & Service Workers](#ionic-2-pwas--service-workers)
+        - [NativeScript](#nativescript)
+        - [React Native](#react-native)
+        - [Sencha Touch](#sencha-touch)
         - [Wix](#wix)
         - [HTML & CSS](#html--css)
         - [Javascript & Frameworks](#javascript--frameworks)
@@ -32,6 +36,7 @@ a most excellent list of lists
         - [Editors and IDEs](#editors-and-ides)
         - [Scource Code Management](#scource-code-management)
 - [DevOps](#devops)
+    - [AWS](#aws)
     - [Docker](#docker)
 - [Embedded Programming](#embedded-programming)
     - [RF & Related](#rf--related)
@@ -43,7 +48,7 @@ a most excellent list of lists
     - [Philosophy](#philosophy)
     - [Physics](#physics)
 
-
+`
 # Data Visualization
 * [Flame Graphs](http://www.brendangregg.com/flamegraphs.html)
 ## Interesting data sets
@@ -61,9 +66,22 @@ a most excellent list of lists
 * [Setup Ionic 2 + TypeScript Debugging with IntelliJ/WebStorm/Jetbrains IDE](http://blog.thecodecampus.de/setup-ionic-2-typescript-debugging-intellijwebstormjetbrains-ide/)
 * [Ionic 2 resources](https://github.com/candelibas/awesome-ionic2)
 * [Ionic 2 reference application](https://github.com/driftyco/ionic-conference-app)
-#### Ionic 2 PWAs & Service Workers
+
+### Ionic 2 PWAs & Service Workers
 * [Service worker pre-cache](https://github.com/GoogleChrome/sw-precache)
 * [Navigating the World of Progressive Web Apps with Ionic 2](http://blog.ionic.io/navigating-the-world-of-progressive-web-apps-with-ionic-2/)
+
+### NativeScript
+* [NativeScript](https://www.nativescript.org/)
+
+### React Native
+* [React Native](https://facebook.github.io/react-native/)
+
+### Sencha Touch
+* [Sencha Touch](https://www.sencha.com/products/touch/#overview)
+
+*** Wix
+* [Alibaba Weex](https://github.com/alibaba/weex)
 
 ##### Sample PWA w/ SW Apps
 * [Let Me See - an Ionic 2 Progressive Web App w/ Service Worker (Article)](http://blog.ionic.io/built-with-ionic-2-let-me-see/)
@@ -201,6 +219,10 @@ deactivate A;
 [A better git log](https://coderwall.com/p/euwpig/a-better-git-log)
 
 # DevOps
+
+## AWS
+* [Linux (Ubuntu) Cloud Init examples](http://cloudinit.readthedocs.io/en/latest/topics/examples.html)
+
 ## Docker
 * [Docker storage introduction](https://deis.com/blog/2016/docker-storage-introduction/?mkt_tok=eyJpIjoiTXpNNU1tUXhZVGRrTXpnNSIsInQiOiJreDk2b0h3TDJmcjBEcjVsOXZVMUl4dXd2RGFcL0pKWUFnWkcwUFZDbEFYYU56QWhnaTlsUXpDMDVEQ1R2TCt4R2N3Z0tnaFFUMERlQWVXNGo2elQwWUpRVnVTS1NcLzkrS1A0Q3FvTGZNeVNVPSJ9)
 * [Auto scaling with docker](https://botleg.com/stories/auto-scaling-with-docker/?mkt_tok=eyJpIjoiTXpNNU1tUXhZVGRrTXpnNSIsInQiOiJreDk2b0h3TDJmcjBEcjVsOXZVMUl4dXd2RGFcL0pKWUFnWkcwUFZDbEFYYU56QWhnaTlsUXpDMDVEQ1R2TCt4R2N3Z0tnaFFUMERlQWVXNGo2elQwWUpRVnVTS1NcLzkrS1A0Q3FvTGZNeVNVPSJ9)
