@@ -101,6 +101,7 @@ a most excellent list of lists
 ### Javascript & Frameworks
 
 #### Angular 2
+* [Webstorm IDE - Angular 2 Tips & Tricks (Video)](https://www.youtube.com/watch?v=U-GQ8Nz8agY)
 
 #### JS Engines
 * [Demystifying js engines - a list of resources](https://github.com/a0viedo/demystifying-js-engines?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly)
