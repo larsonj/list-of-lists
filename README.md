@@ -229,7 +229,12 @@ deactivate A;
 * [Service discovery & load-balancing - slides, Viktor Farcic](http://vfarcic.github.io/docker-swarm/index.html#/cover)
 * [Service discovery & load-balancing - slides, Ajeet Singh Raina](http://www.slideshare.net/ajeetraina/service-discovery-loadbalancing-under-docker-1120-docker-meetup-22)
 * [Docker CLI tips & tricks](https://gist.github.com/BretFisher/70c61f0e6099eb60fcc6bc4569f21da9)
-
+* [How to run hyper-V and virtualbox on the same machine](https://derekgusoff.wordpress.com/2012/09/05/run-hyper-v-and-virtualbox-on-the-same-machine/) 
+```
+C:\> bcdedit /set hypervisorlaunchtype off  # hyper-v off
+C:\> bcdedit /set hypervisorlaunchtype auto # hyper-v on
+C:\> # reboot
+```
 # Embedded Programming
 
 ## RF & Related
