@@ -20,7 +20,7 @@ a most excellent list of lists
         - [NativeScript](#nativescript)
         - [React Native](#react-native)
         - [Sencha Touch](#sencha-touch)
-        - [Wix](#wix)
+        - [Weex](#weex)
         - [HTML & CSS](#html--css)
         - [Javascript & Frameworks](#javascript--frameworks)
     - [Architecture & Related](#architecture--related)
@@ -64,12 +64,16 @@ a most excellent list of lists
 ### Hybrid Mobile
 ### Ionic 2
 * [Setup Ionic 2 + TypeScript Debugging with IntelliJ/WebStorm/Jetbrains IDE](http://blog.thecodecampus.de/setup-ionic-2-typescript-debugging-intellijwebstormjetbrains-ide/)
-* [Ionic 2 resources](https://github.com/candelibas/awesome-ionic2)
+* [Ionic 2 Awesome Ionic 2](https://github.com/candelibas/awesome-ionic2)
 * [Ionic 2 reference application](https://github.com/driftyco/ionic-conference-app)
 
 ### Ionic 2 PWAs & Service Workers
 * [Service worker pre-cache](https://github.com/GoogleChrome/sw-precache)
 * [Navigating the World of Progressive Web Apps with Ionic 2](http://blog.ionic.io/navigating-the-world-of-progressive-web-apps-with-ionic-2/)
+
+##### Sample PWA w/ SW Apps
+* [Let Me See - an Ionic 2 Progressive Web App w/ Service Worker (Article)](http://blog.ionic.io/built-with-ionic-2-let-me-see/)
+* [Let Me See - Github Repo](https://github.com/manekinekko/angularattack2016)
 
 ### NativeScript
 * [NativeScript](https://www.nativescript.org/)
@@ -80,14 +84,8 @@ a most excellent list of lists
 ### Sencha Touch
 * [Sencha Touch](https://www.sencha.com/products/touch/#overview)
 
-*** Wix
+### Weex
 * [Alibaba Weex](https://github.com/alibaba/weex)
-
-##### Sample PWA w/ SW Apps
-* [Let Me See - an Ionic 2 Progressive Web App w/ Service Worker (Article)](http://blog.ionic.io/built-with-ionic-2-let-me-see/)
-* [Let Me See - Github Repo](https://github.com/manekinekko/angularattack2016)
-
-### Wix
 
 #### Ionic Framework
 * [A collection of Ionic Framework Resources](http://emersonthompson.com.br/ionic-collection/)
@@ -229,7 +227,7 @@ deactivate A;
 * [Service discovery & load-balancing - slides, Viktor Farcic](http://vfarcic.github.io/docker-swarm/index.html#/cover)
 * [Service discovery & load-balancing - slides, Ajeet Singh Raina](http://www.slideshare.net/ajeetraina/service-discovery-loadbalancing-under-docker-1120-docker-meetup-22)
 * [Docker CLI tips & tricks](https://gist.github.com/BretFisher/70c61f0e6099eb60fcc6bc4569f21da9)
-* [How to run hyper-V and virtualbox on the same machine](https://derekgusoff.wordpress.com/2012/09/05/run-hyper-v-and-virtualbox-on-the-same-machine/) 
+* [How to run hyper-V and virtualbox on the same machine](https://derekgusoff.wordpress.com/2012/09/05/run-hyper-v-and-virtualbox-on-the-same-machine/)
 ```
 C:\> bcdedit /set hypervisorlaunchtype off  # hyper-v off
 C:\> bcdedit /set hypervisorlaunchtype auto # hyper-v on
