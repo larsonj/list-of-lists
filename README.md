@@ -145,6 +145,7 @@ a most excellent list of lists
 
 ## Security
 * [National Vulnerability Database](https://nvd.nist.gov/home.cfm)
+* [TLS Attacks on 64bit TLS Ciphers possible w/o key (Article)](https://blog.cryptographyengineering.com/2016/08/24/attack-of-week-64-bit-ciphers-in-tls/)
 
 ## Developer tools & workflows
 * [Paul Irish - youtube on appdev workflow](https://www.youtube.com/watch?v=vDbbz-BdyYc)
