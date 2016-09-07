@@ -233,6 +233,12 @@ C:\> bcdedit /set hypervisorlaunchtype off  # hyper-v off
 C:\> bcdedit /set hypervisorlaunchtype auto # hyper-v on
 C:\> # reboot
 ```
+
+* * **SSH into a running container as root or user**
+```
+> docker exec -it -u [userID (eg.root)] [container ID] bash
+```
+
 # Embedded Programming
 
 ## RF & Related
