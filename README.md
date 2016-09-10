@@ -10,7 +10,7 @@ a most excellent list of lists
 
 #### Contents
 - [Data Visualization](#data-visualization)
-    - [Interesting data sets](#interesting-data-sets)
+    - [Data Sources](#data-sources)
     - [R Language](#r-language)
 - [Dev](#dev)
     - [Languages & Frameworks](#languages--frameworks)
@@ -18,6 +18,7 @@ a most excellent list of lists
         - [Ionic 2](#ionic-2)
         - [Ionic 2 PWAs & Service Workers](#ionic-2-pwas--service-workers)
         - [NativeScript](#nativescript)
+        - [Polymer](#polymer)
         - [React Native](#react-native)
         - [Sencha Touch](#sencha-touch)
         - [Weex](#weex)
@@ -38,20 +39,21 @@ a most excellent list of lists
 - [DevOps](#devops)
     - [AWS](#aws)
     - [Docker](#docker)
-- [Embedded Programming](#embedded-programming)
-    - [RF & Related](#rf--related)
-        - [Digi XBee](#digi-xbee)
-    - [Raspbury PI](#raspbury-pi)
+    - [Embedded Programming](#embedded-programming)
+        - [RF &](#rf-)
+        - [Raspbury PI](#raspbury-pi)
+- [Learning & Education](#learning--education)
 - [Neuroscience & Psychology](#neuroscience--psychology)
 - [Science](#science)
     - [Astronomy & Cosmology](#astronomy--cosmology)
     - [Philosophy](#philosophy)
     - [Physics](#physics)
 
-`
+
 # Data Visualization
 * [Flame Graphs](http://www.brendangregg.com/flamegraphs.html)
-## Interesting data sets
+
+## Data Sources
 * [https://ourworldindata.org/](https://ourworldindata.org/)
 
 ## R Language
@@ -77,6 +79,10 @@ a most excellent list of lists
 
 ### NativeScript
 * [NativeScript](https://www.nativescript.org/)
+
+### Polymer
+* [Polymer 1.0 / 1.x Issues, Problems, and Pain Points](https://github.com/kbenjamin/polymer-issues)
+
 
 ### React Native
 * [React Native](https://facebook.github.io/react-native/)
@@ -235,12 +241,18 @@ C:\> bcdedit /set hypervisorlaunchtype off  # hyper-v off
 C:\> bcdedit /set hypervisorlaunchtype auto # hyper-v on
 C:\> # reboot
 ```
-# Embedded Programming
+## Embedded Programming
 
-## RF & Related
-### Digi XBee
+### RF &
+
+#### Digi XBee
 * [common XBee mistakes - fauldi](https://www.faludi.com/projects/common-xbee-mistakes/)
-## Raspbury PI
+
+### Raspbury PI
+
+# Learning & Education
+
+* [Free learning apps and sites](https://medium.com/the-mission/the-49-best-free-websites-and-apps-to-learn-something-new-abfe69142d4b#.es5y7xr67)
 
 # Neuroscience & Psychology
 
