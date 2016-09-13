@@ -55,13 +55,18 @@
 # Data Visualization
 * [Flame Graphs](http://www.brendangregg.com/flamegraphs.html)
 
+<a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
+
 ## Data Sources
 * [https://ourworldindata.org/](https://ourworldindata.org/)
+
+<a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
 
 ## R Language
 * [Reading & writing data with R](https://d396qusza40orc.cloudfront.net/rprog/lecture_slides/reading_data_I.pdf)
 
-<a name="dev"></a>
+<a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
+
 # Dev
 
 ## Languages & Frameworks
@@ -72,71 +77,108 @@
 * [Ionic 2 Awesome Ionic 2](https://github.com/candelibas/awesome-ionic2)
 * [Ionic 2 reference application](https://github.com/driftyco/ionic-conference-app)
 
+<a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
+
 ### Ionic 2 PWAs & Service Workers
 * [Service worker pre-cache](https://github.com/GoogleChrome/sw-precache)
 * [Navigating the World of Progressive Web Apps with Ionic 2](http://blog.ionic.io/navigating-the-world-of-progressive-web-apps-with-ionic-2/)
+
+<a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
 
 ##### Sample PWA w/ SW Apps
 * [Let Me See - an Ionic 2 Progressive Web App w/ Service Worker (Article)](http://blog.ionic.io/built-with-ionic-2-let-me-see/)
 * [Let Me See - Github Repo](https://github.com/manekinekko/angularattack2016)
 
+<a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
+
 ### NativeScript
 * [NativeScript](https://www.nativescript.org/)
+
+<a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
 
 ### Polymer
 * [Polymer 1.0 / 1.x Issues, Problems, and Pain Points](https://github.com/kbenjamin/polymer-issues)
 
+<a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
 
 ### React Native
 * [React Native](https://facebook.github.io/react-native/)
 
+<a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
+
 ### Sencha Touch
 * [Sencha Touch](https://www.sencha.com/products/touch/#overview)
+
+<a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
 
 ### Weex
 * [Alibaba Weex](https://github.com/alibaba/weex)
 
+<a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
+
 #### Ionic Framework
 * [A collection of Ionic Framework Resources](http://emersonthompson.com.br/ionic-collection/)
+
+<a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
 
 ### HTML & CSS
 * [multiple.js -An experiment in sharing background across multiple elements using CSS](http://multiple.js.org/)
 * [Learn flexbox CSS with Flexbox Froggy!](http://flexboxfroggy.com/)
 
+<a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
+
 #### Mobile CSS
 * [Device-pixel density tests for webkit ](https://bjango.com/articles/min-device-pixel-ratio/)
 * [A CSS media query that captures almost all high DPI aware devices](https://gist.github.com/marcedwards/3446599)
+
+<a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
 
 ### Javascript & Frameworks
 
 #### Angular 2
 * [Webstorm IDE - Angular 2 Tips & Tricks (Video)](https://www.youtube.com/watch?v=U-GQ8Nz8agY)
 
+<a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
+
 #### Debugging
 * [Chrome debugging protocol](https://developer.chrome.com/devtools/docs/debugger-protocol)
 
+<a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
+
 #### JS Engines
 * [Demystifying js engines - a list of resources](https://github.com/a0viedo/demystifying-js-engines?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly)
+
+<a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
 
 #### Javascript Style Guides
 * [Google javascript styleguide](https://google.github.io/styleguide/javascriptguide.xml)
 * [Airbnb javascript styleguide](https://github.com/airbnb/javascript)
 
+<a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
+
 #### NodeJS
 [Node.js Playbook](https://github.com/HiFaraz/node-playbook?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly#workflow)
+
+<a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
 
 ## Architecture & Related
 
 ### APIs
 * [user-friendly-api - Gleb Bahmutov](http://glebbahmutov.com/blog/user-friendly-api/)
 
+<a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
+
 ### Backend Server Platforms
 #### Deepstream.io
 * [deepstream.io](http://www.deepstream.io)
 
+<a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
+
 ### Database
 #### MongoDB
 * [Storing Tree Structues w/ MongoDB (slideshare)](http://www.slideshare.net/voronenko/storing-tree-structures-with-mongodb)
+
+<a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
 
 #### mySQL & related
 
@@ -146,18 +188,28 @@
 * [Consumer driver contracts - Martin Fowler](http://martinfowler.com/articles/consumerDrivenContracts.html)
 * [How to CQRS in Node: Eventually Consistent, Unidirectional Systems with Microservices](http://nycnode.com/videos/matt-walters-how-to-cqrs-in-node-eventually-consistent-unidirectional-systems-with-microservices)
 
+<a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
+
 ### Offline Progressive Web Apps
 * [Service Workers - Building offline-first Progressive Web Apps - Google I/O 2016 (Video)](https://www.youtube.com/watch?v=cmGr0RszHc8&feature=youtu.be)
+
+<a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
 
 ### Reactive Programming
 * [The introduction to Reactive Programming you've been missing - @andrestaltz](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 
+<a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
+
 ### REST (REpresentational State Transfer)
 * [Richardson Maturity Model](http://martinfowler.com/articles/richardsonMaturityModel.html)
+
+<a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
 
 ## Security
 * [National Vulnerability Database](https://nvd.nist.gov/home.cfm)
 * [TLS Attacks on 64bit TLS Ciphers possible w/o key (Article)](https://blog.cryptographyengineering.com/2016/08/24/attack-of-week-64-bit-ciphers-in-tls/)
+
+<a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
 
 ## Developer tools & workflows
 * [Paul Irish - youtube on appdev workflow](https://www.youtube.com/watch?v=vDbbz-BdyYc)
@@ -166,24 +218,36 @@
 * <a href="http://dotfiles.github.io" target="_blank">Your unofficial guide to dotfiles on GitHub. - dotfiles.github.io</a>
 * [Chrome - Full text history search](https://github.com/lengstrom/falcon?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly)
 
+<a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
+
 ###  Editors and IDEs
 
 #### Sublime
 * [Sublime Linter User Settings](http://bl.ocks.org/bretdavidson/3189814)
 
+<a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
+
 #### UML markdown
 * [Graphviz is open source graph visualization software](http://www.graphviz.org/)
 * [gravzio uml markdown](http://gravizo.com)
+
+<a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
 
 #### Markdown
 * [webstorm idea-markdown wiki](https://github.com/vsch/idea-multimarkdown/wiki/Adding-a-Table-of-Contents)
 * [Github Markdown Guide](https://guides.github.com/features/mastering-markdown/)
 
+<a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
+
 #### Presentation Frameworks
 * [reveal.js](https://github.com/hakimel/reveal.js/)
 
+<a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
+
 #### Webstorm
 [Jet Brains Webstorm Javascript IDE](https://www.jetbrains.com/webstorm/)
+
+<a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
 
 ##### gravzio - directed graph example
 ![Alt text](http://g.gravizo.com/g?
@@ -227,18 +291,26 @@ deactivate A;
 @enduml
 )
 
+<a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
+
 ### Scource Code Management
 #### Git
 #### Github
 [A better git log](https://coderwall.com/p/euwpig/a-better-git-log)
 
+<a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
+
 ### UI/UX
 * [UI/UX Design Resources](https://github.com/gztchan/awesome-design?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly)
+
+<a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
 
 # DevOps
 
 ## AWS
 * [Linux (Ubuntu) Cloud Init examples](http://cloudinit.readthedocs.io/en/latest/topics/examples.html)
+
+<a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
 
 ## Docker
 * [Docker storage introduction](https://deis.com/blog/2016/docker-storage-introduction/?mkt_tok=eyJpIjoiTXpNNU1tUXhZVGRrTXpnNSIsInQiOiJreDk2b0h3TDJmcjBEcjVsOXZVMUl4dXd2RGFcL0pKWUFnWkcwUFZDbEFYYU56QWhnaTlsUXpDMDVEQ1R2TCt4R2N3Z0tnaFFUMERlQWVXNGo2elQwWUpRVnVTS1NcLzkrS1A0Q3FvTGZNeVNVPSJ9)
@@ -260,6 +332,8 @@ C:\> # reboot
 > docker exec -it -u [userID (eg.root)] [container ID] bash
 ```
 
+<a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
+
 # Embedded Programming
 
 ### RF &
@@ -267,14 +341,20 @@ C:\> # reboot
 #### Digi XBee
 * [common XBee mistakes - fauldi](https://www.faludi.com/projects/common-xbee-mistakes/)
 
+<a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
+
 ### Raspbury PI
 
 # Learning & Education
 
 * [Free learning apps and sites](https://medium.com/the-mission/the-49-best-free-websites-and-apps-to-learn-something-new-abfe69142d4b#.es5y7xr67)
 
+<a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
+
 ## H/W testing
 * [OpenHTF - hardware testing platform (emerging)](https://github.com/google/openhtf?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly)
+
+<a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
 
 # Neuroscience & Psychology
 
@@ -287,9 +367,9 @@ C:\> # reboot
 * [http://www.nickbostrom.com/](http://www.nickbostrom.com/)
 * [Philosophy of Mind blog](http://philosophyofbrains.com/)
 
+<a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
+
 ## Physics
 * [Symmetry Magazine - Particle Physics News](http://www.symmetrymagazine.org/archive?topic=3379)
 
-
-<a href="#toc">back to Toc</a>
-<a href="#dev">back to dev</a>
+<a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
