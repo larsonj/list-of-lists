@@ -35,6 +35,7 @@ a most excellent list of lists
     - [Developer tools & workflows](#developer-tools--workflows)
         - [Editors and IDEs](#editors-and-ides)
         - [Scource Code Management](#scource-code-management)
+        - [UI/UX](#uiux)
 - [DevOps](#devops)
     - [AWS](#aws)
     - [Docker](#docker)
@@ -42,6 +43,7 @@ a most excellent list of lists
     - [RF & Related](#rf--related)
         - [Digi XBee](#digi-xbee)
     - [Raspbury PI](#raspbury-pi)
+    - [H/W testing](#hw-testing)
 - [Neuroscience & Psychology](#neuroscience--psychology)
 - [Science](#science)
     - [Astronomy & Cosmology](#astronomy--cosmology)
@@ -102,6 +104,9 @@ a most excellent list of lists
 
 #### Angular 2
 
+#### Debugging
+* [Chrome debugging protocol](https://developer.chrome.com/devtools/docs/debugger-protocol)
+
 #### JS Engines
 * [Demystifying js engines - a list of resources](https://github.com/a0viedo/demystifying-js-engines?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly)
 
@@ -150,6 +155,8 @@ a most excellent list of lists
 * [Paul Irish - youtube on javascript workflow](https://www.youtube.com/watch?v=f7AU2Ozu8eo)
 * [Adventures in JavaScript Development - Rebecca Murphy](http://rmurphey.com/)
 * <a href="http://dotfiles.github.io" target="_blank">Your unofficial guide to dotfiles on GitHub. - dotfiles.github.io</a>
+* [Chrome - Full text history search](https://github.com/lengstrom/falcon?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly)
+
 ###  Editors and IDEs
 
 #### Sublime
@@ -216,6 +223,9 @@ deactivate A;
 #### Github
 [A better git log](https://coderwall.com/p/euwpig/a-better-git-log)
 
+### UI/UX
+* [UI/UX Design Resources](https://github.com/gztchan/awesome-design?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly)
+
 # DevOps
 
 ## AWS
@@ -233,8 +243,10 @@ C:\> bcdedit /set hypervisorlaunchtype off  # hyper-v off
 C:\> bcdedit /set hypervisorlaunchtype auto # hyper-v on
 C:\> # reboot
 ```
+* [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly)
+* [Chrome headless testing in a Docker container](https://github.com/c0b/chrome-in-docker?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly)
 
-* * **SSH into a running container as root or user**
+* **SSH into a running container as root or user**
 ```
 > docker exec -it -u [userID (eg.root)] [container ID] bash
 ```
@@ -245,6 +257,9 @@ C:\> # reboot
 ### Digi XBee
 * [common XBee mistakes - fauldi](https://www.faludi.com/projects/common-xbee-mistakes/)
 ## Raspbury PI
+
+## H/W testing
+* [OpenHTF - hardware testing platform (emerging)](https://github.com/google/openhtf?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly)
 
 # Neuroscience & Psychology
 
