@@ -10,7 +10,7 @@ a most excellent list of lists
 
 #### Contents
 - [Data Visualization](#data-visualization)
-    - [Interesting data sets](#interesting-data-sets)
+    - [Data Sources](#data-sources)
     - [R Language](#r-language)
 - [Dev](#dev)
     - [Languages & Frameworks](#languages--frameworks)
@@ -18,6 +18,7 @@ a most excellent list of lists
         - [Ionic 2](#ionic-2)
         - [Ionic 2 PWAs & Service Workers](#ionic-2-pwas--service-workers)
         - [NativeScript](#nativescript)
+        - [Polymer](#polymer)
         - [React Native](#react-native)
         - [Sencha Touch](#sencha-touch)
         - [Weex](#weex)
@@ -40,9 +41,9 @@ a most excellent list of lists
     - [AWS](#aws)
     - [Docker](#docker)
 - [Embedded Programming](#embedded-programming)
-    - [RF & Related](#rf--related)
-        - [Digi XBee](#digi-xbee)
+    - [RF &](#rf-)
     - [Raspbury PI](#raspbury-pi)
+- [Learning & Education](#learning--education)
     - [H/W testing](#hw-testing)
 - [Neuroscience & Psychology](#neuroscience--psychology)
 - [Science](#science)
@@ -50,10 +51,11 @@ a most excellent list of lists
     - [Philosophy](#philosophy)
     - [Physics](#physics)
 
-`
+
 # Data Visualization
 * [Flame Graphs](http://www.brendangregg.com/flamegraphs.html)
-## Interesting data sets
+
+## Data Sources
 * [https://ourworldindata.org/](https://ourworldindata.org/)
 
 ## R Language
@@ -80,6 +82,10 @@ a most excellent list of lists
 ### NativeScript
 * [NativeScript](https://www.nativescript.org/)
 
+### Polymer
+* [Polymer 1.0 / 1.x Issues, Problems, and Pain Points](https://github.com/kbenjamin/polymer-issues)
+
+
 ### React Native
 * [React Native](https://facebook.github.io/react-native/)
 
@@ -103,6 +109,7 @@ a most excellent list of lists
 ### Javascript & Frameworks
 
 #### Angular 2
+* [Webstorm IDE - Angular 2 Tips & Tricks (Video)](https://www.youtube.com/watch?v=U-GQ8Nz8agY)
 
 #### Debugging
 * [Chrome debugging protocol](https://developer.chrome.com/devtools/docs/debugger-protocol)
@@ -149,6 +156,7 @@ a most excellent list of lists
 
 ## Security
 * [National Vulnerability Database](https://nvd.nist.gov/home.cfm)
+* [TLS Attacks on 64bit TLS Ciphers possible w/o key (Article)](https://blog.cryptographyengineering.com/2016/08/24/attack-of-week-64-bit-ciphers-in-tls/)
 
 ## Developer tools & workflows
 * [Paul Irish - youtube on appdev workflow](https://www.youtube.com/watch?v=vDbbz-BdyYc)
@@ -253,10 +261,16 @@ C:\> # reboot
 
 # Embedded Programming
 
-## RF & Related
-### Digi XBee
+### RF &
+
+#### Digi XBee
 * [common XBee mistakes - fauldi](https://www.faludi.com/projects/common-xbee-mistakes/)
-## Raspbury PI
+
+### Raspbury PI
+
+# Learning & Education
+
+* [Free learning apps and sites](https://medium.com/the-mission/the-49-best-free-websites-and-apps-to-learn-something-new-abfe69142d4b#.es5y7xr67)
 
 ## H/W testing
 * [OpenHTF - hardware testing platform (emerging)](https://github.com/google/openhtf?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly)
