@@ -240,7 +240,7 @@
 <a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
 
 #### Presentation Frameworks
-* [reveal.js](https://github.com/hakimel/reveal.js/)
+* [reveal.js - A framework for easily creating beautiful presentations using HTML.](https://github.com/hakimel/reveal.js/)
 
 <a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
 
