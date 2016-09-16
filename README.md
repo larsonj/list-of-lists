@@ -179,12 +179,16 @@
 <a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
 
 ### Database
+
 #### MongoDB
 * [Storing Tree Structues w/ MongoDB (slideshare)](http://www.slideshare.net/voronenko/storing-tree-structures-with-mongodb)
 
 <a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
 
 #### mySQL & related
+
+#### Research - General
+* [The rise of immutable data stores - Alan Morrison, PWC](http://usblogs.pwc.com/emerging-technology/the-rise-of-immutable-data-stores/)
 
 ### Microservices
 * [Application architecture is moving toward connected apps (2014)](https://www.infoq.com/news/2014/11/architecture-connected-apps)
