@@ -82,6 +82,7 @@
 ### Ionic 2 PWAs & Service Workers
 * [Service worker pre-cache](https://github.com/GoogleChrome/sw-precache)
 * [Navigating the World of Progressive Web Apps with Ionic 2](http://blog.ionic.io/navigating-the-world-of-progressive-web-apps-with-ionic-2/)
+* [Getting Started With Progressive Web Apps](https://addyosmani.com/blog/getting-started-with-progressive-web-apps/)
 
 <a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
 
@@ -156,8 +157,11 @@
 
 <a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
 
-#### NodeJS
-[Node.js Playbook](https://github.com/HiFaraz/node-playbook?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly#workflow)
+#### NodeJS & NPM
+* [Node.js Playbook](https://github.com/HiFaraz/node-playbook?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly#workflow)
+* [Offline installation of NPM packages](https://addyosmani.com/blog/using-npm-offline/)
+*
+
 
 <a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
 
@@ -326,6 +330,7 @@ C:\> # reboot
 ```
 * [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly)
 * [Chrome headless testing in a Docker container](https://github.com/c0b/chrome-in-docker?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly)
+* [Docker and High Security Microservices](https://www.infoq.com/news/2016/08/secure-docker-microservices)
 
 * **SSH into a running container as root or user**
 ```
