@@ -227,6 +227,7 @@
 ## Security
 * [National Vulnerability Database](https://nvd.nist.gov/home.cfm)
 * [TLS Attacks on 64bit TLS Ciphers possible w/o key (Article)](https://blog.cryptographyengineering.com/2016/08/24/attack-of-week-64-bit-ciphers-in-tls/)
+* [Hyper ledger whitepaper regarding the principles behind a new blockchain fabric for B2B and B2C transactions](http://www.the-blockchain.com/docs/Hyperledger%20Whitepaper.pdf)
 
 <a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
 
