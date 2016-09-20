@@ -29,6 +29,7 @@
         - [Offline Progressive Web Apps](#offline-progressive-web-apps)
         - [Reactive Programming](#reactive-programming)
         - [REST (REpresentational State Transfer)](#rest-representational-state-transfer)
+        - [Serverless](#serverless)
     - [Security](#security)
     - [Developer tools & workflows](#developer-tools--workflows)
         - [Editors and IDEs](#editors-and-ides)
@@ -221,6 +222,9 @@
 
 ### REST (REpresentational State Transfer)
 * [Richardson Maturity Model](http://martinfowler.com/articles/richardsonMaturityModel.html)
+
+### Serverless
+* [How to build a serverless NodeJS microservice on AWS Lambda](https://medium.freecodecamp.com/building-a-nodejs-microservice-on-aws-lambda-6adb6da53cbb#.oy3iw8kci)
 
 <a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
 
