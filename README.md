@@ -42,6 +42,7 @@
     - [RF &](#rf-)
     - [Raspbury PI](#raspbury-pi)
 - [Learning & Education](#learning--education)
+- [Food - Cooking - Restaurants](#food---cooking---restaurants)
     - [H/W testing](#hw-testing)
 - [Neuroscience & Psychology](#neuroscience--psychology)
 - [Science](#science)
@@ -375,6 +376,10 @@ C:\> # reboot
 * [Free learning apps and sites](https://medium.com/the-mission/the-49-best-free-websites-and-apps-to-learn-something-new-abfe69142d4b#.es5y7xr67)
 
 <a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
+
+# Food - Cooking - Restaurants
+* [NY chapter of eater.com - ny.eater.com](https://ny.eater.com)
+* [ChefSteps.com - great site, learning videos and home of my favorite Sous Vide Time and Temperature Guide](https://www.chefsteps.com/activities/sous-vide-time-and-temperature-guide)
 
 ## H/W testing
 * [OpenHTF - hardware testing platform (emerging)](https://github.com/google/openhtf?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly)
