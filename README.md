@@ -89,6 +89,8 @@
 * [Setup Ionic 2 + TypeScript Debugging with IntelliJ/WebStorm/Jetbrains IDE](http://blog.thecodecampus.de/setup-ionic-2-typescript-debugging-intellijwebstormjetbrains-ide/)
 * [Ionic 2 Awesome Ionic 2](https://github.com/candelibas/awesome-ionic2)
 * [Ionic 2 reference application](https://github.com/driftyco/ionic-conference-app)
+* [How To Manipulate Data In Ionic 2 - Josh Morony](http://www.joshmorony.com/how-to-manipulate-data-in-ionic-2-part-1/)  
+
 
 <a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
 
