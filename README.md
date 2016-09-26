@@ -43,6 +43,7 @@
     - [RF & Related](#rf--related)
         - [Digi XBee](#digi-xbee)
     - [Raspbury PI](#raspbury-pi)
+    - [Shop Safety](#shop-safety)
 - [Learning & Education](#learning--education)
 - [Food - Cooking - Restaurants](#food---cooking---restaurants)
     - [H/W testing](#hw-testing)
@@ -378,6 +379,9 @@ C:\> # reboot
 <a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
 
 ## Raspbury PI
+
+## Shop Safety
+* [The healthy maker: tackling vapors, fumes and heavy metals - a Hackaday article on shop safety](http://hackaday.com/2016/09/26/the-healthy-maker-tackling-vapors-fumes-and-heavy-metals/) 
 
 # Learning & Education
 
