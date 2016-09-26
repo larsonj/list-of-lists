@@ -39,7 +39,9 @@
     - [AWS](#aws)
     - [Docker](#docker)
 - [Embedded Programming](#embedded-programming)
-    - [RF &](#rf-)
+    - [FCC Certification](#fcc-certification)
+    - [RF & Related](#rf--related)
+        - [Digi XBee](#digi-xbee)
     - [Raspbury PI](#raspbury-pi)
 - [Learning & Education](#learning--education)
 - [Food - Cooking - Restaurants](#food---cooking---restaurants)
@@ -365,14 +367,17 @@ C:\> # reboot
 
 # Embedded Programming
 
-### RF &
+## FCC Certification
+[Preparing your product for the FCC - Hackaday post](http://hackaday.com/2016/09/19/preparing-your-product-for-the-fcc/) 
 
-#### Digi XBee
+## RF & Related
+
+### Digi XBee
 * [common XBee mistakes - fauldi](https://www.faludi.com/projects/common-xbee-mistakes/)
 
 <a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
 
-### Raspbury PI
+## Raspbury PI
 
 # Learning & Education
 
