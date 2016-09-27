@@ -4,7 +4,7 @@
 
 <a name="toc"></a>
 
-[TOC levels=1-3]:# "#### Contents"
+[TOC levels=1-4]:# "#### Contents"
 
 #### Contents
 - [Data Visualization](#data-visualization)
@@ -20,12 +20,24 @@
         - [React Native](#react-native)
         - [Sencha Touch](#sencha-touch)
         - [Weex](#weex)
+            - [Ionic Framework](#ionic-framework)
         - [HTML & CSS](#html--css)
-        - [Javascript & Frameworks](#javascript--frameworks)
+            - [Mobile CSS](#mobile-css)
+        - [Javascript](#javascript)
+            - [Angular 2](#angular-2)
+            - [Debugging](#debugging)
+            - [JS Engines](#js-engines)
+            - [Javascript Style Guides](#javascript-style-guides)
+            - [NodeJS & NPM](#nodejs--npm)
+            - [Performance testing](#performance-testing)
     - [Architecture & Related](#architecture--related)
         - [APIs](#apis)
         - [Backend Server Platforms](#backend-server-platforms)
+            - [Deepstream.io](#deepstreamio)
         - [Database](#database)
+            - [MongoDB](#mongodb)
+            - [mySQL & related](#mysql--related)
+            - [Research - General](#research---general)
         - [Microservices](#microservices)
         - [Offline Progressive Web Apps](#offline-progressive-web-apps)
         - [Reactive Programming](#reactive-programming)
@@ -34,7 +46,15 @@
     - [Security](#security)
     - [Developer tools & workflows](#developer-tools--workflows)
         - [Editors and IDEs](#editors-and-ides)
+            - [Sublime](#sublime)
+            - [UML markdown](#uml-markdown)
+            - [Markdown](#markdown)
+            - [Presentation Frameworks](#presentation-frameworks)
+            - [Webstorm](#webstorm)
+            - [sequence diagram example](#sequence-diagram-example)
         - [Scource Code Management](#scource-code-management)
+            - [Git](#git)
+            - [Github](#github)
         - [UI/UX](#uiux)
 - [DevOps](#devops)
     - [AWS](#aws)
@@ -156,7 +176,7 @@
 
 <a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
 
-### Javascript & Frameworks
+### Javascript
 
 #### Angular 2
 * [Webstorm IDE - Angular 2 Tips & Tricks (Video)](https://www.youtube.com/watch?v=U-GQ8Nz8agY)
@@ -185,6 +205,9 @@
 * [Offline installation of NPM packages](https://addyosmani.com/blog/using-npm-offline/)
 
 <a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
+
+#### Performance testing
+* [A small library for measuring web app performance, annotating the DevTools timeline, and reporting the results to Google Analytics.](https://github.com/ebidel/appmetrics.js?utm_source=html5weekly&utm_medium=email)
 
 ## Architecture & Related
 
