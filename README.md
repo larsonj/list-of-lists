@@ -117,7 +117,6 @@
 * [Ionic 2 reference application](https://github.com/driftyco/ionic-conference-app)
 * [How To Manipulate Data In Ionic 2 - Josh Morony](http://www.joshmorony.com/how-to-manipulate-data-in-ionic-2-part-1/)
 
-
 <a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
 
 ### Ionic 2 PWAs & Service Workers
@@ -366,6 +365,7 @@ deactivate A;
 
 ## AWS
 * [Linux (Ubuntu) Cloud Init examples](http://cloudinit.readthedocs.io/en/latest/topics/examples.html)
+* [Automatically Deploy from GitHub Using AWS CodeDeploy](https://blogs.aws.amazon.com/application-management/post/Tx33XKAKURCCW83/Automatically-Deploy-from-GitHub-Using-AWS-CodeDeploy)
 
 <a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
 
