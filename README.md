@@ -47,10 +47,12 @@
     - [Shop Safety](#shop-safety)
 - [Learning & Education](#learning--education)
 - [Food - Cooking - Restaurants](#food---cooking---restaurants)
+- [Testing and Quality](#testing-and-quality)
     - [H/W testing](#hw-testing)
-- [Neuroscience & Psychology](#neuroscience--psychology)
+- [Organizational Design](#organizational-design)
 - [Science](#science)
     - [Astronomy & Cosmology](#astronomy--cosmology)
+    - [Neuroscience & Psychology](#neuroscience--psychology)
     - [Philosophy](#philosophy)
     - [Physics](#physics)
 
@@ -93,7 +95,7 @@
 * [Setup Ionic 2 + TypeScript Debugging with IntelliJ/WebStorm/Jetbrains IDE](http://blog.thecodecampus.de/setup-ionic-2-typescript-debugging-intellijwebstormjetbrains-ide/)
 * [Ionic 2 Awesome Ionic 2](https://github.com/candelibas/awesome-ionic2)
 * [Ionic 2 reference application](https://github.com/driftyco/ionic-conference-app)
-* [How To Manipulate Data In Ionic 2 - Josh Morony](http://www.joshmorony.com/how-to-manipulate-data-in-ionic-2-part-1/)  
+* [How To Manipulate Data In Ionic 2 - Josh Morony](http://www.joshmorony.com/how-to-manipulate-data-in-ionic-2-part-1/)
 
 
 <a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
@@ -179,8 +181,6 @@
 #### NodeJS & NPM
 * [Node.js Playbook](https://github.com/HiFaraz/node-playbook?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly#workflow)
 * [Offline installation of NPM packages](https://addyosmani.com/blog/using-npm-offline/)
-*
-
 
 <a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
 
@@ -370,7 +370,9 @@ C:\> # reboot
 # Embedded Programming
 
 ## FCC Certification
-[Preparing your product for the FCC - Hackaday post](http://hackaday.com/2016/09/19/preparing-your-product-for-the-fcc/) 
+[Preparing your product for the FCC - Hackaday post](http://hackaday.com/2016/09/19/preparing-your-product-for-the-fcc/)
+
+<a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
 
 ## RF & Related
 
@@ -382,7 +384,9 @@ C:\> # reboot
 ## Raspbury PI
 
 ## Shop Safety
-* [The healthy maker: tackling vapors, fumes and heavy metals - a Hackaday article on shop safety](http://hackaday.com/2016/09/26/the-healthy-maker-tackling-vapors-fumes-and-heavy-metals/) 
+* [The healthy maker: tackling vapors, fumes and heavy metals - a Hackaday article on shop safety](http://hackaday.com/2016/09/26/the-healthy-maker-tackling-vapors-fumes-and-heavy-metals/)
+
+<a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
 
 # Learning & Education
 
@@ -394,16 +398,26 @@ C:\> # reboot
 * [NY chapter of eater.com - ny.eater.com](https://ny.eater.com)
 * [ChefSteps.com - great site, learning videos and home of my favorite Sous Vide Time and Temperature Guide](https://www.chefsteps.com/activities/sous-vide-time-and-temperature-guide)
 
+<a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
+
+# Testing and Quality
+
 ## H/W testing
 * [OpenHTF - hardware testing platform (emerging)](https://github.com/google/openhtf?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly)
 
 <a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
 
-# Neuroscience & Psychology
+# Organizational Design
+* [Scaling Organizatoins (Presentation) - Alexander Grosse discusses the principles behind building successful organizations that are growing with examples from SoundCloud and Twitter.](https://www.infoq.com/presentations/build-organization-principles?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)
+
+
+<a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
 
 # Science
 
 ## Astronomy & Cosmology
+
+## Neuroscience & Psychology
 
 ## Philosophy
 * [Nick Bostrom on the Simulation Argument](http://philosophybites.com/2011/08/nick-bostrom-on-the-simulation-argument.html)
