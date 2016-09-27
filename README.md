@@ -165,6 +165,7 @@
 
 #### Debugging
 * [Chrome debugging protocol](https://developer.chrome.com/devtools/docs/debugger-protocol)
+* [12 Chrome devtool tips](https://hackernoon.com/twelve-fancy-chrome-devtools-tips-dc1e39d10d9d#.8who1srvm)
 
 <a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
 
