@@ -146,6 +146,7 @@
 ### HTML & CSS
 * [multiple.js -An experiment in sharing background across multiple elements using CSS](http://multiple.js.org/)
 * [Learn flexbox CSS with Flexbox Froggy!](http://flexboxfroggy.com/)
+* [Google HTML/CSS style guide](https://google.github.io/styleguide/htmlcssguide.xml?utm_source=html5weekly&utm_medium=email)
 
 <a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
 
