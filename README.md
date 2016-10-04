@@ -61,6 +61,7 @@
     - [Docker](#docker)
 - [Embedded Programming](#embedded-programming)
     - [FCC Certification](#fcc-certification)
+    - [Digital Signal Processing](#digital-signal-processing)
     - [RF & Related](#rf--related)
         - [Digi XBee](#digi-xbee)
     - [Raspbury PI](#raspbury-pi)
@@ -395,7 +396,11 @@ C:\> # reboot
 # Embedded Programming
 
 ## FCC Certification
-[Preparing your product for the FCC - Hackaday post](http://hackaday.com/2016/09/19/preparing-your-product-for-the-fcc/)
+* [Preparing your product for the FCC - Hackaday post](http://www.dspguide.com/)
+
+## Digital Signal Processing
+* [The Scientist and Engineer's Guide to
+ Digital Signal Processing](http://www.dspguide.com/)
 
 <a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
 
