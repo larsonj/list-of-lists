@@ -365,7 +365,8 @@ deactivate A;
 # DevOps
 
 ## AWS
-* [Linux (Ubuntu) Cloud Init examples](http://cloudinit.readthedocs.io/en/latest/topics/examples.html)
+* [The Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws)
+* * [Linux (Ubuntu) Cloud Init examples](http://cloudinit.readthedocs.io/en/latest/topics/examples.html)
 * [Automatically Deploy from GitHub Using AWS CodeDeploy](https://blogs.aws.amazon.com/application-management/post/Tx33XKAKURCCW83/Automatically-Deploy-from-GitHub-Using-AWS-CodeDeploy)
 
 <a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
