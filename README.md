@@ -80,6 +80,7 @@
 
 ---
 ---
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -113,7 +114,7 @@
 
 ### Hybrid Mobile
 ### Ionic 2
-* [Setup Ionic 2 + TypeScript Debugging with IntelliJ/WebStorm/Jetbrains IDE](http://blog.thecodecampus.de/setup-ionic-2-typescript-debugging-intellijwebstormjetbrains-ide/)
+* [Setup Ionic 2/Cordova + TypeScript Debugging with IntelliJ/WebStorm/Jetbrains IDE](http://blog.thecodecampus.de/setup-ionic-2-typescript-debugging-intellijwebstormjetbrains-ide/)
 * [Ionic 2 Awesome Ionic 2](https://github.com/candelibas/awesome-ionic2)
 * [Ionic 2 reference application](https://github.com/driftyco/ionic-conference-app)
 * [How To Manipulate Data In Ionic 2 - Josh Morony](http://www.joshmorony.com/how-to-manipulate-data-in-ionic-2-part-1/)
@@ -183,11 +184,13 @@
 
 <a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
 
-#### Debugging
+#### JS Debugging
+* [Chrome Developer Tools: 12 Tricks to develop quicker (Paul Irish)](https://www.youtube.com/watch?v=nOEw9iiopwI)
 * [Chrome debugging protocol](https://developer.chrome.com/devtools/docs/debugger-protocol)
 * [12 Chrome devtool tips](https://hackernoon.com/twelve-fancy-chrome-devtools-tips-dc1e39d10d9d#.8who1srvm)
-
-<a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
+* [JavaScript Debugging using Chrome (Video)](https://www.youtube.com/watch?v=-q1z8BPFItw)
+* [Wait, Chrome Dev Tools could do THAT?  (Ilya Grigorik)](https://www.youtube.com/watch?v=BaneWEqNcpE)
+* [Javascript Console Power-User](https://www.youtube.com/watch?v=4mf_yNLlgic)
 
 #### JS Engines
 * [Demystifying js engines - a list of resources](https://github.com/a0viedo/demystifying-js-engines?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly)
