@@ -59,7 +59,7 @@
 - [DevOps](#devops)
     - [AWS](#aws)
     - [Docker](#docker)
-- [Embedded Programming](#embedded-programming)
+    - [Windows 10](#windows-10)
     - [FCC Certification](#fcc-certification)
     - [Digital Signal Processing](#digital-signal-processing)
     - [RF & Related](#rf--related)
@@ -380,7 +380,7 @@ deactivate A;
 * [Service discovery & load-balancing - slides, Viktor Farcic](http://vfarcic.github.io/docker-swarm/index.html#/cover)
 * [Service discovery & load-balancing - slides, Ajeet Singh Raina](http://www.slideshare.net/ajeetraina/service-discovery-loadbalancing-under-docker-1120-docker-meetup-22)
 * [Docker CLI tips & tricks](https://gist.github.com/BretFisher/70c61f0e6099eb60fcc6bc4569f21da9)
-* [How to run hyper-V and virtualbox on the same machine](https://derekgusoff.wordpress.com/2012/09/05/run-hyper-v-and-virtualbox-on-the-same-machine/)
+* [How to run hyper-V and virtualbox on the same Windows machine](https://derekgusoff.wordpress.com/2012/09/05/run-hyper-v-and-virtualbox-on-the-same-machine/)
 ```
 C:\> bcdedit /set hypervisorlaunchtype off  # hyper-v off
 C:\> bcdedit /set hypervisorlaunchtype auto # hyper-v on
@@ -397,7 +397,10 @@ C:\> # reboot
 
 <a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
 
-# Embedded Programming
+## Windows 10
+* [Run Ubuntu Linux bash natively on Windows 10](https://msdn.microsoft.com/en-us/commandline/wsl/install_guide)
+
+<a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a># Embedded Programming
 
 ## FCC Certification
 * [Preparing your product for the FCC - Hackaday post](http://www.dspguide.com/)
