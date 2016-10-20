@@ -59,7 +59,7 @@
 - [DevOps](#devops)
     - [AWS](#aws)
     - [Docker](#docker)
-    - [Windows 10](#windows-10)
+- [Embedded Programming](#embedded-programming)
     - [FCC Certification](#fcc-certification)
     - [Digital Signal Processing](#digital-signal-processing)
     - [RF & Related](#rf--related)
@@ -397,10 +397,11 @@ C:\> # reboot
 
 <a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
 
-## Windows 10
-* [Run Ubuntu Linux bash natively on Windows 10](https://msdn.microsoft.com/en-us/commandline/wsl/install_guide)
+* [How to run Ubuntu bash on Windows 10 natively](https://msdn.microsoft.com/en-us/commandline/wsl/install_guide)
 
-<a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a># Embedded Programming
+<a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
+
+# Embedded Programming
 
 ## FCC Certification
 * [Preparing your product for the FCC - Hackaday post](http://www.dspguide.com/)
