@@ -25,7 +25,7 @@
             - [Mobile CSS](#mobile-css)
         - [Javascript](#javascript)
             - [Angular 2](#angular-2)
-            - [Debugging](#debugging)
+            - [JS Debugging](#js-debugging)
             - [JS Engines](#js-engines)
             - [Javascript Style Guides](#javascript-style-guides)
             - [NodeJS & NPM](#nodejs--npm)
@@ -260,7 +260,8 @@
 * [Richardson Maturity Model](http://martinfowler.com/articles/richardsonMaturityModel.html)
 
 ### Serverless
-* [How to build a serverless NodeJS microservice on AWS Lambda](https://medium.freecodecamp.com/building-a-nodejs-microservice-on-aws-lambda-6adb6da53cbb#.oy3iw8kci)
+* [How to build a serverless NodeJS microservice on
+* Lambda](https://medium.freecodecamp.com/building-a-nodejs-microservice-on-aws-lambda-6adb6da53cbb#.oy3iw8kci)
 
 <a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
 
@@ -370,8 +371,9 @@ deactivate A;
 
 ## AWS
 * [The Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws)
-* * [Linux (Ubuntu) Cloud Init examples](http://cloudinit.readthedocs.io/en/latest/topics/examples.html)
+* [Linux (Ubuntu) Cloud Init examples](http://cloudinit.readthedocs.io/en/latest/topics/examples.html)
 * [Automatically Deploy from GitHub Using AWS CodeDeploy](https://blogs.aws.amazon.com/application-management/post/Tx33XKAKURCCW83/Automatically-Deploy-from-GitHub-Using-AWS-CodeDeploy)
+* [Using sudo, ssh, rsync on the Official Ubuntu Images for EC2](https://alestic.com/2009/04/ubuntu-ec2-sudo-ssh-rsync/)
 
 <a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
 
