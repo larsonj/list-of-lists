@@ -25,7 +25,7 @@
             - [Mobile CSS](#mobile-css)
         - [Javascript](#javascript)
             - [Angular 2](#angular-2)
-            - [Debugging](#debugging)
+            - [JS Debugging](#js-debugging)
             - [JS Engines](#js-engines)
             - [Javascript Style Guides](#javascript-style-guides)
             - [NodeJS & NPM](#nodejs--npm)
@@ -43,6 +43,7 @@
         - [Reactive Programming](#reactive-programming)
         - [REST (REpresentational State Transfer)](#rest-representational-state-transfer)
         - [Serverless](#serverless)
+    - [Service Discovery](#service-discovery)
     - [Security](#security)
     - [Developer tools & workflows](#developer-tools--workflows)
         - [Editors and IDEs](#editors-and-ides)
@@ -261,6 +262,11 @@
 
 ### Serverless
 * [How to build a serverless NodeJS microservice on AWS Lambda](https://medium.freecodecamp.com/building-a-nodejs-microservice-on-aws-lambda-6adb6da53cbb#.oy3iw8kci)
+
+<a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
+
+## Service Discovery
+* [Infrastructure discovery with etcd](http://ducky.cloud/blog/infrastructure_discovery_with_etcd) 
 
 <a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
 
