@@ -267,7 +267,7 @@
 <a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
 
 ## Service Discovery
-* [Infrastructure discovery with etcd](http://ducky.cloud/blog/infrastructure_discovery_with_etcd) 
+* [Infrastructure discovery with etcd](http://ducky.cloud/blog/infrastructure_discovery_with_etcd)
 
 <a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
 
@@ -389,6 +389,14 @@ deactivate A;
 * [Service discovery & load-balancing - slides, Viktor Farcic](http://vfarcic.github.io/docker-swarm/index.html#/cover)
 * [Service discovery & load-balancing - slides, Ajeet Singh Raina](http://www.slideshare.net/ajeetraina/service-discovery-loadbalancing-under-docker-1120-docker-meetup-22)
 * [Docker CLI tips & tricks](https://gist.github.com/BretFisher/70c61f0e6099eb60fcc6bc4569f21da9)
+* [Creating a Hyper-V Vagrant box from a VirtualBox vmdk or vdi image](http://www.hurryupandwait.io/blog/creating-a-hyper-v-vagrant-box-from-a-virtualbox-vmdk-or-vdi-image)
+```
+$vboxDisk = Resolve-Path "$baseDir\output-virtualbox-iso\*.vmdk"
+$hyperVDir = "$baseDir\hyper-v-output\Virtual Hard Disks"
+$hyperVDisk = Join-Path $hyperVDir 'disk.vhd'
+$vbox = "$env:programfiles\oracle\VirtualBox\VBoxManage.exe"
+.$vbox clonehd $vboxDisk $hyperVDisk --format vhd
+```
 * [How to run hyper-V and virtualbox on the same Windows machine](https://derekgusoff.wordpress.com/2012/09/05/run-hyper-v-and-virtualbox-on-the-same-machine/)
 ```
 C:\> bcdedit /set hypervisorlaunchtype off  # hyper-v off
