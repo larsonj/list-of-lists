@@ -388,8 +388,26 @@ deactivate A;
 C:\> bcdedit /set hypervisorlaunchtype off  # hyper-v off
 C:\> bcdedit /set hypervisorlaunchtype auto # hyper-v on
 C:\> # reboot
+
 ```
-* [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly)
+* [Switch easily between VirtualBox and Hyper-V with a BCDEdit boot Entry in Windows 8.1](http://www.hanselman.com/blog/SwitchEasilyBetweenVirtualBoxAndHyperVWithABCDEditBootEntryInWindows81.aspx)
+```
+C:\>bcdedit /copy {current} /d "No Hyper-V"
+The entry was successfully copied to {ff-23-113-824e-5c5144ea}.
+
+C:\>bcdedit /set {ff-23-113-824e-5c5144ea} hypervisorlaunchtype off
+The operation completed successfully.
+```
+or create a .bat file (per Johannes comment from above article)
+```
+You can also make a .bat file which will reboot into No Hypervisor Mode directly (or any other special boot option you may create):
+bcdedit.exe /bootsequence {your-target-boot-option-guid}
+shutdown.exe /r /t 0 /f #(Reboot the computer immediately)
+Note: The bcdedit /bootsequence parameter does not make any permanent changes to your boot sequence; it only applies on your next reboot.
+This trick saves a few seconds when you need to boot into another dual-boot mode.
+```
+
+* * [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly)
 * [Chrome headless testing in a Docker container](https://github.com/c0b/chrome-in-docker?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly)
 * [Docker and High Security Microservices](https://www.infoq.com/news/2016/08/secure-docker-microservices)
 
