@@ -421,7 +421,7 @@ Note: The bcdedit /bootsequence parameter does not make any permanent changes to
 This trick saves a few seconds when you need to boot into another dual-boot mode.
 ```
 
-* * [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly)
+* [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly)
 * [Chrome headless testing in a Docker container](https://github.com/c0b/chrome-in-docker?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly)
 * [Docker and High Security Microservices](https://www.infoq.com/news/2016/08/secure-docker-microservices)
 
