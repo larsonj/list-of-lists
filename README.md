@@ -186,6 +186,9 @@
 
 <a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
 
+#### Functional Programming (Javascript)
+* [RamdaJS - A practical functional library for JavaScript programmers](http://ramdajs.com/)
+
 #### JS Debugging
 * [Chrome Developer Tools: 12 Tricks to develop quicker (Paul Irish)](https://www.youtube.com/watch?v=nOEw9iiopwI)
 * [Chrome debugging protocol](https://developer.chrome.com/devtools/docs/debugger-protocol)
