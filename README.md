@@ -374,6 +374,12 @@ deactivate A;
 
 <a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
 
+### AWS Certification
+* [aws certification prep - blog article](http://jimhough.com/writing/aws-certification-preparation/)
+
+
+<a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
+
 ## Docker
 * [Docker storage introduction](https://deis.com/blog/2016/docker-storage-introduction/?mkt_tok=eyJpIjoiTXpNNU1tUXhZVGRrTXpnNSIsInQiOiJreDk2b0h3TDJmcjBEcjVsOXZVMUl4dXd2RGFcL0pKWUFnWkcwUFZDbEFYYU56QWhnaTlsUXpDMDVEQ1R2TCt4R2N3Z0tnaFFUMERlQWVXNGo2elQwWUpRVnVTS1NcLzkrS1A0Q3FvTGZNeVNVPSJ9)
 * [Auto scaling with docker](https://botleg.com/stories/auto-scaling-with-docker/?mkt_tok=eyJpIjoiTXpNNU1tUXhZVGRrTXpnNSIsInQiOiJreDk2b0h3TDJmcjBEcjVsOXZVMUl4dXd2RGFcL0pKWUFnWkcwUFZDbEFYYU56QWhnaTlsUXpDMDVEQ1R2TCt4R2N3Z0tnaFFUMERlQWVXNGo2elQwWUpRVnVTS1NcLzkrS1A0Q3FvTGZNeVNVPSJ9)
