@@ -208,6 +208,11 @@
 
 <a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
 
+#### JS Language
+[Six ways to declare JavaScript functions by Dmitri Pavlutin | 22 Jun 2016](https://rainsoft.io/6-ways-to-declare-javascript-functions/)
+
+<a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
+
 #### NodeJS & NPM
 * [Node.js Playbook](https://github.com/HiFaraz/node-playbook?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly#workflow)
 * [Offline installation of NPM packages](https://addyosmani.com/blog/using-npm-offline/)
