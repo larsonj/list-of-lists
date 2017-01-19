@@ -25,7 +25,7 @@
             - [Mobile CSS](#mobile-css)
         - [Javascript](#javascript)
             - [Angular 2](#angular-2)
-            - [Debugging](#debugging)
+            - [JS Debugging](#js-debugging)
             - [JS Engines](#js-engines)
             - [Javascript Style Guides](#javascript-style-guides)
             - [NodeJS & NPM](#nodejs--npm)
@@ -43,6 +43,7 @@
         - [Reactive Programming](#reactive-programming)
         - [REST (REpresentational State Transfer)](#rest-representational-state-transfer)
         - [Serverless](#serverless)
+    - [Service Discovery](#service-discovery)
     - [Security](#security)
     - [Developer tools & workflows](#developer-tools--workflows)
         - [Editors and IDEs](#editors-and-ides)
@@ -59,6 +60,7 @@
 - [DevOps](#devops)
     - [AWS](#aws)
     - [Docker](#docker)
+    - [Windows 10](#windows-10)
 - [Embedded Programming](#embedded-programming)
     - [FCC Certification](#fcc-certification)
     - [Digital Signal Processing](#digital-signal-processing)
@@ -184,6 +186,9 @@
 
 <a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
 
+#### Functional Programming (Javascript)
+* [RamdaJS - A practical functional library for JavaScript programmers](http://ramdajs.com/)
+
 #### JS Debugging
 * [Chrome Developer Tools: 12 Tricks to develop quicker (Paul Irish)](https://www.youtube.com/watch?v=nOEw9iiopwI)
 * [Chrome debugging protocol](https://developer.chrome.com/devtools/docs/debugger-protocol)
@@ -200,6 +205,11 @@
 #### Javascript Style Guides
 * [Google javascript styleguide](https://google.github.io/styleguide/javascriptguide.xml)
 * [Airbnb javascript styleguide](https://github.com/airbnb/javascript)
+
+<a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
+
+#### JS Language
+[Six ways to declare JavaScript functions by Dmitri Pavlutin | 22 Jun 2016](https://rainsoft.io/6-ways-to-declare-javascript-functions/)
 
 <a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
 
@@ -259,7 +269,13 @@
 * [Richardson Maturity Model](http://martinfowler.com/articles/richardsonMaturityModel.html)
 
 ### Serverless
-* [How to build a serverless NodeJS microservice on AWS Lambda](https://medium.freecodecamp.com/building-a-nodejs-microservice-on-aws-lambda-6adb6da53cbb#.oy3iw8kci)
+* [How to build a serverless NodeJS microservice on
+* Lambda](https://medium.freecodecamp.com/building-a-nodejs-microservice-on-aws-lambda-6adb6da53cbb#.oy3iw8kci)
+
+<a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
+
+## Service Discovery
+* [Infrastructure discovery with etcd](http://ducky.cloud/blog/infrastructure_discovery_with_etcd)
 
 <a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
 
@@ -369,8 +385,9 @@ deactivate A;
 
 ## AWS
 * [The Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws)
-* * [Linux (Ubuntu) Cloud Init examples](http://cloudinit.readthedocs.io/en/latest/topics/examples.html)
+* [Linux (Ubuntu) Cloud Init examples](http://cloudinit.readthedocs.io/en/latest/topics/examples.html)
 * [Automatically Deploy from GitHub Using AWS CodeDeploy](https://blogs.aws.amazon.com/application-management/post/Tx33XKAKURCCW83/Automatically-Deploy-from-GitHub-Using-AWS-CodeDeploy)
+* [Using sudo, ssh, rsync on the Official Ubuntu Images for EC2](https://alestic.com/2009/04/ubuntu-ec2-sudo-ssh-rsync/)
 
 <a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
 
@@ -386,12 +403,38 @@ deactivate A;
 * [Service discovery & load-balancing - slides, Viktor Farcic](http://vfarcic.github.io/docker-swarm/index.html#/cover)
 * [Service discovery & load-balancing - slides, Ajeet Singh Raina](http://www.slideshare.net/ajeetraina/service-discovery-loadbalancing-under-docker-1120-docker-meetup-22)
 * [Docker CLI tips & tricks](https://gist.github.com/BretFisher/70c61f0e6099eb60fcc6bc4569f21da9)
-* [How to run hyper-V and virtualbox on the same machine](https://derekgusoff.wordpress.com/2012/09/05/run-hyper-v-and-virtualbox-on-the-same-machine/)
+* [Creating a Hyper-V Vagrant box from a VirtualBox vmdk or vdi image](http://www.hurryupandwait.io/blog/creating-a-hyper-v-vagrant-box-from-a-virtualbox-vmdk-or-vdi-image)
+```
+$vboxDisk = Resolve-Path "$baseDir\output-virtualbox-iso\*.vmdk"
+$hyperVDir = "$baseDir\hyper-v-output\Virtual Hard Disks"
+$hyperVDisk = Join-Path $hyperVDir 'disk.vhd'
+$vbox = "$env:programfiles\oracle\VirtualBox\VBoxManage.exe"
+.$vbox clonehd $vboxDisk $hyperVDisk --format vhd
+```
+* [How to run hyper-V and virtualbox on the same Windows machine](https://derekgusoff.wordpress.com/2012/09/05/run-hyper-v-and-virtualbox-on-the-same-machine/)
 ```
 C:\> bcdedit /set hypervisorlaunchtype off  # hyper-v off
 C:\> bcdedit /set hypervisorlaunchtype auto # hyper-v on
 C:\> # reboot
+
 ```
+* [Switch easily between VirtualBox and Hyper-V with a BCDEdit boot Entry in Windows 8.1](http://www.hanselman.com/blog/SwitchEasilyBetweenVirtualBoxAndHyperVWithABCDEditBootEntryInWindows81.aspx)
+```
+C:\>bcdedit /copy {current} /d "No Hyper-V"
+The entry was successfully copied to {ff-23-113-824e-5c5144ea}.
+
+C:\>bcdedit /set {ff-23-113-824e-5c5144ea} hypervisorlaunchtype off
+The operation completed successfully.
+```
+or create a .bat file (per Johannes comment from above article)
+```
+You can also make a .bat file which will reboot into No Hypervisor Mode directly (or any other special boot option you may create):
+bcdedit.exe /bootsequence {your-target-boot-option-guid}
+shutdown.exe /r /t 0 /f #(Reboot the computer immediately)
+Note: The bcdedit /bootsequence parameter does not make any permanent changes to your boot sequence; it only applies on your next reboot.
+This trick saves a few seconds when you need to boot into another dual-boot mode.
+```
+
 * [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly)
 * [Chrome headless testing in a Docker container](https://github.com/c0b/chrome-in-docker?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly)
 * [Docker and High Security Microservices](https://www.infoq.com/news/2016/08/secure-docker-microservices)
@@ -400,6 +443,11 @@ C:\> # reboot
 ```
 > docker exec -it -u [userID (eg.root)] [container ID] bash
 ```
+
+<a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
+
+## Windows 10
+* [How to run Ubuntu bash on Windows 10 natively](https://msdn.microsoft.com/en-us/commandline/wsl/install_guide)
 
 <a href="#toc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Table of Contents)</a>
 
